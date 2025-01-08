@@ -1,0 +1,99 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   
+      <title>Biblioth&egrave;que</title>
+   </head>
+   <body>
+      <li> 
+         Code : E1
+      </li>
+      <li> 
+         Nom : Hassan
+      </li>
+      <li> 
+         Pr&eacute;nom : Hassan
+      </li>
+      <table border="1" width="70%">
+         <tr>
+            <th>ID</th>
+            <th>Titre</th>
+            <th>Date</th>
+            <th>Rendu</th>
+         </tr>
+         <tr>
+            <td>12</td>
+            <td>Java</td>
+            <td>2012-11-11</td>
+            <td>Non</td>
+         </tr>
+         <tr>
+            <td>13</td>
+            <td>Javascript</td>
+            <td>2012-11-11</td>
+            <td>Non</td>
+         </tr>
+         <tr>
+            <td>14</td>
+            <td>BD</td>
+            <td>2012-11-11</td>
+            <td>Non</td>
+         </tr>
+         <tr>
+            <td colspan="4">Nombre de livre enprunt&eacute;s</td>
+            <td>4</td>
+         </tr>
+         <tr>
+            <td colspan="4">Nombre de livre non rendus</td>
+            <td>3</td>
+         </tr>
+         <tr>
+            <td colspan="4">Nombre de livre  rendus</td>
+            <td>1</td>
+         </tr>
+         <tr>
+            <td colspan="4">TOtals des prix</td>
+            <td>0</td>
+         </tr>
+      </table>
+      <li> 
+         Code : E2
+      </li>
+      <li> 
+         Nom : Ilham
+      </li>
+      <li> 
+         Pr&eacute;nom : Ilham
+      </li>
+      <table border="1" width="70%">
+         <tr>
+            <th>ID</th>
+            <th>Titre</th>
+            <th>Date</th>
+            <th>Rendu</th>
+         </tr>
+         <tr>
+            <td>15</td>
+            <td>XML</td>
+            <td>2012-11-23</td>
+            <td>Non</td>
+         </tr>
+         <tr>
+            <td colspan="4">Nombre de livre enprunt&eacute;s</td>
+            <td>2</td>
+         </tr>
+         <tr>
+            <td colspan="4">Nombre de livre non rendus</td>
+            <td>1</td>
+         </tr>
+         <tr>
+            <td colspan="4">Nombre de livre  rendus</td>
+            <td>1</td>
+         </tr>
+         <tr>
+            <td colspan="4">TOtals des prix</td>
+            <td>0</td>
+         </tr>
+      </table>
+   </body>
+</html>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblio SYSTEM "file:/C:/Users/Latitude%205480/OneDrive/Bureau/TP%20XML%20BIBLIO/biblio.dtd">
+<biblio>
+  
+    <etudiant code="E1" nom="Youssef" prenom="Hassan" age="23">
+        <livre id="L1" titre="XML" dateEmprunt="2012-11-11" rendu="Oui" />
+        <livre id="L2" titre="Java" dateEmprunt="2012-11-11" rendu="Non" />
+        <livre id="L3" titre="Javascript" dateEmprunt="2012-11-11" rendu="Non" />
+        <livre id="L4" titre="BD" dateEmprunt="2012-11-11" rendu="Oui" />
+    </etudiant>
+    <etudiant code="E2" nom="Meryem" prenom="Meryem" age="24">
+        <livre id="L5" titre="XML" dateEmprunt="2012-11-23" rendu="Non" />
+        <livre id="L6" titre="Oracle" dateEmprunt="2012-11-23" rendu="Oui" />
+    </etudiant>
+</biblio>
